@@ -1,8 +1,8 @@
 # Team Profile Generator
 
 ## Links
-Repo: https://github.com/rehpotsirhc21/team-profile/tree/main
-YouTube: 
+Repo: https://github.com/rehpotsirhc21/team-profile2
+YouTube: https://www.youtube.com/watch?v=9M1cA0hdDbI
 
 ## User Story
 AS A manager
