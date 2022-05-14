@@ -2,6 +2,7 @@
 
 ## Links
 Repo: https://github.com/rehpotsirhc21/team-profile2
+
 YouTube: https://www.youtube.com/watch?v=9M1cA0hdDbI
 
 ## User Story
@@ -30,3 +31,6 @@ THEN I exit the application, and the HTML is generated
 
 ## resources
 https://www.w3schools.com/howto/howto_css_flip_card.asp
+
+
+![full site screen print](./dist/screencapture-127-0-0-1-5501-dist-index-html-2022-05-14-18_22_13.png)
