@@ -1,0 +1,27 @@
+{
+  "name": "team-profile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehpotsirhc21/team-profile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehpotsirhc21/team-profile/issues"
+  },
+  "homepage": "https://github.com/rehpotsirhc21/team-profile#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0",
+    "path": "^0.12.7"
+  }
+}
